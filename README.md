@@ -1,5 +1,4 @@
 # Public Digital Garden
-This repo contains only a link to my digital garden.
+This repo contains the [link to my digital garden](mickiah.org)
 
-mickiah.org
 
